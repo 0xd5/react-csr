@@ -19,18 +19,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ztytotoro/react-csr.git"
+    "url": "git+https://github.com/0x5d/react-csr.git"
   },
-  "author": "ztytotoro",
+  "author": "0x5d",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ztytotoro/react-csr/issues"
+    "url": "https://github.com/0x5d/react-csr/issues"
   },
   "files": [
     "src",
     "dist"
   ],
-  "homepage": "https://github.com/ztytotoro/react-csr#readme",
+  "homepage": "https://github.com/0x5d/react-csr#readme",
   "devDependencies": {
     "@types/jest": "^24.0.18",
     "@types/react": "^16.9.2",
